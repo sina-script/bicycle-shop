@@ -8,3 +8,8 @@ for(let i=1;i<10;i++)
     }
 
 let usersList=["sina","nazi","ebi"]
+
+
+usersList.forEach((user)=>{
+    console.log(user)
+})
