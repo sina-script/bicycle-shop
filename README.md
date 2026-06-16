@@ -33,4 +33,4 @@ def setUsername():
     print(username)
 ```
 
-[my project](https://monireseddighi.ir/)
+[url project](https://sina-script.github.io/test-deploy/)
